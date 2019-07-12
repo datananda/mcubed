@@ -1,0 +1,667 @@
+Department1,Department2,Author1,Author2,Project
+Dentistry,Engineer,William V. Giannobile,Mihaela Banu,Personalized Products and Production
+Engineer,Engineer,Mark Burns,Mihaela Banu,Personalized Products and Production
+Dentistry,Engineer,William V. Giannobile,Mark Burns,Personalized Products and Production
+Engineer,Engineer,Dawn Tilbury,Zhuoqing (Morley) Mao,Supporting Cyber-enabled Advanced Manufacturing with
+Engineer,LSA:NatSci,Zhuoqing (Morley) Mao,Ji Zhu,Supporting Cyber-enabled Advanced Manufacturing with
+Engineer,LSA:NatSci,Dawn Tilbury,Ji Zhu,Supporting Cyber-enabled Advanced Manufacturing with
+Engineer,LSA:NatSci,Eric Kort,Kerri Pratt,Climate and Air Quality Impacts of Greenhouse Gases
+LSA:NatSci,PubHealth,Kerri Pratt,Andrew Ault,Climate and Air Quality Impacts of Greenhouse Gases
+Engineer,PubHealth,Eric Kort,Andrew Ault,Climate and Air Quality Impacts of Greenhouse Gases
+Engineer,Engineer,Jeffrey A. Fessler,Douglas C. Noll,Imaging Fleeting Thoughts
+Engineer,LSA:NatSci,Douglas C. Noll,Anna Gilbert,Imaging Fleeting Thoughts
+Engineer,LSA:NatSci,Jeffrey A. Fessler,Anna Gilbert,Imaging Fleeting Thoughts
+Engineer,LSA:NatSci,Edgar Meyhofer,Daniel Burns,Data and Algorithms for Modeling the 4D Genome
+Engineer,LSA:NatSci,Noel Perkins,Daniel Burns,Data and Algorithms for Modeling the 4D Genome
+Engineer,Engineer,Noel Perkins,Edgar Meyhofer,Data and Algorithms for Modeling the 4D Genome
+Engineer,Engineer,Timothy F. Scott,Emmanuelle Marquis,"Design, synthesis, and imaging of novel bone adhesive"
+Dentistry,Engineer,Brian Clarkson,Emmanuelle Marquis,"Design, synthesis, and imaging of novel bone adhesive"
+Dentistry,Engineer,Brian Clarkson,Timothy F. Scott,"Design, synthesis, and imaging of novel bone adhesive"
+LSA:Hum,LSA:SocSci,Silke Weineck,Elizabeth Wingrove,Engaging Translation
+LSA:Hum,LSA:Hum,Yopie Prins,Silke Weineck,Engaging Translation
+LSA:Hum,LSA:SocSci,Yopie Prins,Elizabeth Wingrove,Engaging Translation
+LSA:NatSci,LSA:SocSci,Bob Kennedy,Joshua Berke,Microdialysis of Striatal Modulators during Adaptive
+LSA:SocSci,LSA:SocSci,Brandon Aragona,Joshua Berke,Microdialysis of Striatal Modulators during Adaptive
+LSA:NatSci,LSA:SocSci,Bob Kennedy,Brandon Aragona,Microdialysis of Striatal Modulators during Adaptive
+Engineer,Kines,C. David Remy,Deanna Gates,Reducing effort through an augmented lower limb prosthese
+Engineer,Kines,Art Kuo,Deanna Gates,Reducing effort through an augmented lower limb prosthese
+Engineer,Engineer,Art Kuo,C. David Remy,Reducing effort through an augmented lower limb prosthese
+Engineer,Engineer,Laura Kathryn Balzano,Branko Kerkez,"A mathematical, scientific and measurement framework"
+Engineer,Graham Institute,Branko Kerkez,Don Scavia,"A mathematical, scientific and measurement framework"
+Engineer,Graham Institute,Laura Kathryn Balzano,Don Scavia,"A mathematical, scientific and measurement framework"
+LSA:Hum,LSA:SocSci,"William ""Buzz"" Alexander",Ashley Lucas,Prison Creative Arts Project Image Archive
+LSA:SocSci,LSA:SocSci,Charlie Bright,Ashley Lucas,Prison Creative Arts Project Image Archive
+LSA:Hum,LSA:SocSci,"William ""Buzz"" Alexander",Charlie Bright,Prison Creative Arts Project Image Archive
+Engineer,Info,Prabal Dutta,Douglas Van Houweling,National Infrastructure for Sensor Networking
+Engineer,Info,Mingyan Liu,Douglas Van Houweling,National Infrastructure for Sensor Networking
+Engineer,Engineer,Mingyan Liu,Prabal Dutta,National Infrastructure for Sensor Networking
+Nursing,Pharmacy,Patricia Abbott,James Stevenson,Enabling Patient-Centered Care With Advanced Mobile
+Engineer,Nursing,Robert Dick,Patricia Abbott,Enabling Patient-Centered Care With Advanced Mobile
+Engineer,Pharmacy,Robert Dick,James Stevenson,Enabling Patient-Centered Care With Advanced Mobile
+LSA:Hum,LSA:SocSci,Marlyse Baptista,Ken Kollman,"Modeling linguistic convergence, divergence and innovation"
+LSA:Hum,LSA:NatSci,Marlyse Baptista,Jihno Baik,"Modeling linguistic convergence, divergence and innovation"
+LSA:NatSci,LSA:SocSci,Jihno Baik,Ken Kollman,"Modeling linguistic convergence, divergence and innovation"
+LSA:SocSci,PubHealth,Ashley Gearhardt,Peter  Song,Maternal Feeding Project Team 3
+Kines,LSA:SocSci,Dale Ulrich,Ashley Gearhardt,Maternal Feeding Project Team 3
+Kines,PubHealth,Dale Ulrich,Peter  Song,Maternal Feeding Project Team 3
+NatResEnv,PubHealth,Ming Xu,Olivier J. Jolliet,Influence of global trade on the human health impacts
+Engineer,PubHealth,Steve Skerlos,Olivier J. Jolliet,Influence of global trade on the human health impacts
+Engineer,NatResEnv,Steve Skerlos,Ming Xu,Influence of global trade on the human health impacts
+Nursing,PubHealth,Minkyoung Song,Dana Dolinoy,Maternal Feeding Project - Team 2
+LSA:SocSci,PubHealth,Kristen Harrison,Dana Dolinoy,Maternal Feeding Project - Team 2
+LSA:SocSci,Nursing,Kristen Harrison,Minkyoung Song,Maternal Feeding Project - Team 2
+ArchUrban,LSA:Hum,Steven Mankouche,Christopher Ratte,Architectural Revolutions from the Roman Empire to
+LSA:Hum,LSA:Hum,Nicola Terrenato,Christopher Ratte,Architectural Revolutions from the Roman Empire to
+ArchUrban,LSA:Hum,Steven Mankouche,Nicola Terrenato,Architectural Revolutions from the Roman Empire to
+PubHealth,PubHealth,Ana Baylin,Alison Miller,The Maternal Feeding Study - Team 1
+LSA:SocSci,PubHealth,Pam Davis-Kean,Alison Miller,The Maternal Feeding Study - Team 1
+LSA:SocSci,PubHealth,Pam Davis-Kean,Ana Baylin,The Maternal Feeding Study - Team 1
+ArchUrban,PubHealth,Larissa Larsen,Marie Sylvia O'Neill,"Environment, infection, antioxidant vitamins and preterm"
+PubHealth,PubHealth,Rita Loch-Caruso,Marie Sylvia O'Neill,"Environment, infection, antioxidant vitamins and preterm"
+ArchUrban,PubHealth,Larissa Larsen,Rita Loch-Caruso,"Environment, infection, antioxidant vitamins and preterm"
+Dentistry,Dentistry,Theodora Danciu,Alexandre DaSilva,Non-invasive Neuromodulation of the Brain as an Adjuvant
+Dentistry,PubHealth,Alexandre DaSilva,Laura Marie Rozek,Non-invasive Neuromodulation of the Brain as an Adjuvant
+Dentistry,PubHealth,Theodora Danciu,Laura Marie Rozek,Non-invasive Neuromodulation of the Brain as an Adjuvant
+Engineer,LSA:NatSci,Zhen Xu,Wolfgang Lorenzon,Targeted Nanoplatform-enabled Sonodynamic Cardiac
+Engineer,Engineer,Xudong (Sherman) Fan,Zhen Xu,Targeted Nanoplatform-enabled Sonodynamic Cardiac
+Engineer,LSA:NatSci,Xudong (Sherman) Fan,Wolfgang Lorenzon,Targeted Nanoplatform-enabled Sonodynamic Cardiac
+ArchUrban,ArchUrban,Sean Vance,Milton Curry,Active Classroom
+ArchUrban,Kines,Milton Curry,Rebecca Hasson,Active Classroom
+ArchUrban,Kines,Sean Vance,Rebecca Hasson,Active Classroom
+LSA:SocSci,PubPolicy,Jeffrey Smith,Kevin Stange,Does Capacity Constrain Student Success in Higher
+LSA:SocSci,PubPolicy,John Bound,Kevin Stange,Does Capacity Constrain Student Success in Higher
+LSA:SocSci,LSA:SocSci,John Bound,Jeffrey Smith,Does Capacity Constrain Student Success in Higher
+Engineer,Engineer,Peter Green,Jinsang Kim,Conjugated Polymers with Directed Alignment Property
+Engineer,LSA:NatSci,Jinsang Kim,Theodore Goodson,Conjugated Polymers with Directed Alignment Property
+Engineer,LSA:NatSci,Peter Green,Theodore Goodson,Conjugated Polymers with Directed Alignment Property
+LSA:NatSci,LSA:NatSci,Steven Clark,Erik Nielsen,Mechanisms of cytokinesis: A study in plants and animal
+LSA:NatSci,LSI,Erik Nielsen,Yukiko Yamiashita,Mechanisms of cytokinesis: A study in plants and animal
+LSA:NatSci,LSI,Steven Clark,Yukiko Yamiashita,Mechanisms of cytokinesis: A study in plants and animal
+Engineer,Engineer,Richard Robertson,Victor C. Li,Bio-inspired Large Scale Structural Material
+Engineer,NatResEnv,Victor C. Li,Maria Carmen Lemos,Bio-inspired Large Scale Structural Material
+Engineer,NatResEnv,Richard Robertson,Maria Carmen Lemos,Bio-inspired Large Scale Structural Material
+Engineer,Engineer,Jerome Peter Lynch,Amir Mortazawi,Efficient Electromagnetic Energy Harvesting for Wireless
+Engineer,OVPR,Amir Mortazawi,James Sayer,Efficient Electromagnetic Energy Harvesting for Wireless
+Engineer,OVPR,Jerome Peter Lynch,James Sayer,Efficient Electromagnetic Energy Harvesting for Wireless
+Engineer,Engineer,Kira Barton,Jack Hu,3D Printing of Personalized Dental Products
+Dentistry,Engineer,Nan E. Hatch,Jack Hu,3D Printing of Personalized Dental Products
+Dentistry,Engineer,Nan E. Hatch,Kira Barton,3D Printing of Personalized Dental Products
+Pharmacy,Pharmacy,Gregory Amidon,Nair Rodriguez-Hornedo,Prediction and modulation of  cocrystalline drug solubility/dissolution
+LSA:NatSci,Pharmacy,Zhan Chen,Nair Rodriguez-Hornedo,Prediction and modulation of  cocrystalline drug solubility/dissolution
+LSA:NatSci,Pharmacy,Zhan Chen,Gregory Amidon,Prediction and modulation of  cocrystalline drug solubility/dissolution
+Engineer,Engineer,James Barber,Brent Gillespie,The Holy Braille
+Engineer,LSA:Hum,Brent Gillespie,Michael Gould,The Holy Braille
+Engineer,LSA:Hum,James Barber,Michael Gould,The Holy Braille
+ArchUrban,Info,Mary-Ann Ray,Yan Chen,CLOUD: Balloon Platform Rural Internet Provider
+ArchUrban,Engineer,Mary-Ann Ray,Aaron Ridley,CLOUD: Balloon Platform Rural Internet Provider
+Engineer,Info,Aaron Ridley,Yan Chen,CLOUD: Balloon Platform Rural Internet Provider
+LSA:Hum,PubHealth,Alexandra Stern,Sioban D. Harlow,Eugenics and Coerced Sterilization in California:
+LSA:Hum,PubHealth,Alexandra Stern,Sharon Reilly  Kardia,Eugenics and Coerced Sterilization in California:
+PubHealth,PubHealth,Sharon Reilly  Kardia,Sioban D. Harlow,Eugenics and Coerced Sterilization in California:
+LSA:SocSci,Nursing,Sonya Dal Cin,Lisa Kane Low,Clinical and Non-Clinical Factors Influencing the
+Nursing,PubHealth,Lisa Kane Low,Scott Greer,Clinical and Non-Clinical Factors Influencing the
+LSA:SocSci,PubHealth,Sonya Dal Cin,Scott Greer,Clinical and Non-Clinical Factors Influencing the
+Engineer,LSA:NatSci,Duncan Steel,Matthew Chapman,Biophysical Manipulation of Functional Amyloids
+LSA:NatSci,LSA:NatSci,Blaise Boles,Matthew Chapman,Biophysical Manipulation of Functional Amyloids
+Engineer,LSA:NatSci,Duncan Steel,Blaise Boles,Biophysical Manipulation of Functional Amyloids
+Engineer,Engineer,Johannes W. Schwank,Richard Laine,Investigation of Mixed-Metal Oxides and Oxynitride
+Engineer,LSA:NatSci,Richard Laine,Dominika Zgid,Investigation of Mixed-Metal Oxides and Oxynitride
+Engineer,LSA:NatSci,Johannes W. Schwank,Dominika Zgid,Investigation of Mixed-Metal Oxides and Oxynitride
+LSA:Hum,LSA:SocSci,Sara Ahbel-Rappe,Ray Van Dam,Hellenistic Judaisms in their Cultural Contexts
+LSA:Hum,LSA:Hum,Gabriele Boccaccini,Sara Ahbel-Rappe,Hellenistic Judaisms in their Cultural Contexts
+LSA:Hum,LSA:SocSci,Gabriele Boccaccini,Ray Van Dam,Hellenistic Judaisms in their Cultural Contexts
+Engineer,Engineer,Joanna Millunchick,Suljo Linic,Solar Splitting of Water Using Abundant Materials
+Engineer,OVPR,Suljo Linic,Mark A. Barteau,Solar Splitting of Water Using Abundant Materials
+Engineer,OVPR,Joanna Millunchick,Mark A. Barteau,Solar Splitting of Water Using Abundant Materials
+Engineer,Engineer,Kamal Sarabandi,Eric Michielssen,A Fast Surface Integral Equation Solver for the Radiative
+Engineer,LSA:NatSci,Eric Michielssen,John Schotland,A Fast Surface Integral Equation Solver for the Radiative
+Engineer,LSA:NatSci,Kamal Sarabandi,John Schotland,A Fast Surface Integral Equation Solver for the Radiative
+Dentistry,Engineer,Kenichi Kuroda,Joerg Lahann,Anti-Infectious Nanoparticle Scaffolds
+Engineer,Engineer,Nicholas Kotov,Joerg Lahann,Anti-Infectious Nanoparticle Scaffolds
+Dentistry,Engineer,Kenichi Kuroda,Nicholas Kotov,Anti-Infectious Nanoparticle Scaffolds
+PubHealth,PubHealth,Gary W. Harper,Rachel Campbell Snow,Adherence to HIV-Care among Ugandan Adolescents
+LSA:SocSci,PubHealth,Robert Wyrod,Rachel Campbell Snow,Adherence to HIV-Care among Ugandan Adolescents
+LSA:SocSci,PubHealth,Robert Wyrod,Gary W. Harper,Adherence to HIV-Care among Ugandan Adolescents
+Engineer,NatResEnv,Allison L. Steiner,William Currie,"Linking people, forests, and the atmosphere to model"
+NatResEnv,NatResEnv,Arun Agrawal,William Currie,"Linking people, forests, and the atmosphere to model"
+Engineer,NatResEnv,Allison L. Steiner,Arun Agrawal,"Linking people, forests, and the atmosphere to model"
+LSA:NatSci,LSA:NatSci,Richard Hume,Mohammed Akaaboune,Biology of the neuromuscular synapse (connection between
+LSA:NatSci,LSI,Mohammed Akaaboune,Gabrielle Rudenko,Biology of the neuromuscular synapse (connection between
+LSA:NatSci,LSI,Richard Hume,Gabrielle Rudenko,Biology of the neuromuscular synapse (connection between
+Info,LSA:Hum,Dragomir Radev,Christi Merrill,Building Translation Networks at Michigan
+LSA:Hum,LSA:Hum,Sidonie Smith,Christi Merrill,Building Translation Networks at Michigan
+Info,LSA:Hum,Dragomir Radev,Sidonie Smith,Building Translation Networks at Michigan
+Engineer,Engineer,Jamie D. Phillips,Sara A. Pozzi,Neutron Detection for Cancer Therapy
+Engineer,LSA:NatSci,Sara A. Pozzi,Thomas Schwarz,Neutron Detection for Cancer Therapy
+Engineer,LSA:NatSci,Jamie D. Phillips,Thomas Schwarz,Neutron Detection for Cancer Therapy
+LSA:NatSci,LSA:NatSci,Robert Denver,Haoxing Xu,Transient receptor potential cation channels in health
+LSA:NatSci,LSI,Haoxing Xu,X.Z. Shawn Xu,Transient receptor potential cation channels in health
+LSA:NatSci,LSI,Robert Denver,X.Z. Shawn Xu,Transient receptor potential cation channels in health
+Engineer,PubHealth,Krista Wigginton,Carl F Marrs,Antibiotic Resistance Gene Degradation During Wastewater
+Engineer,Engineer,Terese M. Olson,Krista Wigginton,Antibiotic Resistance Gene Degradation During Wastewater
+Engineer,PubHealth,Terese M. Olson,Carl F Marrs,Antibiotic Resistance Gene Degradation During Wastewater
+Engineer,Info,John Kieffer,Margaret Hedstrom,"Electronic Lab Notebook for Physical, Chemical &"
+Engineer,Engineer,Hosagrahar V.  Jagadish,John Kieffer,"Electronic Lab Notebook for Physical, Chemical &"
+Engineer,Info,Hosagrahar V.  Jagadish,Margaret Hedstrom,"Electronic Lab Notebook for Physical, Chemical &"
+LSA:NatSci,PubHealth,Joel Blum,Joseph Dvonch,Mercury Biogeochemistry in Michigan Lakes
+LSA:NatSci,LSA:NatSci,Knute Nadelhoffer,Joel Blum,Mercury Biogeochemistry in Michigan Lakes
+LSA:NatSci,PubHealth,Knute Nadelhoffer,Joseph Dvonch,Mercury Biogeochemistry in Michigan Lakes
+Engineer,Info,Emily  Mower Provost,Predrag  Klasnja,Using mobile technology to manage bipolar disorde
+Info,Info,Paul Resnick,Predrag  Klasnja,Using mobile technology to manage bipolar disorde
+Engineer,Info,Emily  Mower Provost,Paul Resnick,Using mobile technology to manage bipolar disorde
+Engineer,LSA:NatSci,Steve Ceccio,Charlie Doering,Mechanism of Acoustic Droplet Vaporization
+Engineer,LSA:NatSci,Bogdan Epureanu,Charlie Doering,Mechanism of Acoustic Droplet Vaporization
+Engineer,Engineer,Bogdan Epureanu,Steve Ceccio,Mechanism of Acoustic Droplet Vaporization
+LSA:NatSci,LSI,Jianzhi Zhang,Alexey Kondrashov,Transcriptome evolution
+LSA:NatSci,LSA:NatSci,Stephen Smith,Jianzhi Zhang,Transcriptome evolution
+LSA:NatSci,LSI,Stephen Smith,Alexey Kondrashov,Transcriptome evolution
+Engineer,Engineer,Ronald G. Larson,Fei Wen,"All-in-one Detection of T cells - Specificity, Phenotype,"
+Engineer,PubHealth,Fei Wen,Timothy Johnson,"All-in-one Detection of T cells - Specificity, Phenotype,"
+Engineer,PubHealth,Ronald G. Larson,Timothy Johnson,"All-in-one Detection of T cells - Specificity, Phenotype,"
+Business,Engineer,Izak Duenyas,Yavuz A. Bozer,Distribution Free Inventory Control For Supply Chains
+Business,Engineer,Izak Duenyas,Cong Shi,Distribution Free Inventory Control For Supply Chains
+Engineer,Engineer,Cong Shi,Yavuz A. Bozer,Distribution Free Inventory Control For Supply Chains
+Engineer,Medicine,Lutgarde Raskin,John LiPuma,The Drinking Water Microbiome and Human Health
+Engineer,PubHealth,Lutgarde Raskin,Chuanwu Xi,The Drinking Water Microbiome and Human Health
+Medicine,PubHealth,John LiPuma,Chuanwu Xi,The Drinking Water Microbiome and Human Health
+Medicine,Pharmacy,Sayoko Moroi,Steve Schwendeman,Novel drug delivery and treatments for glaucoma
+LSA:NatSci,Medicine,Mark Meyerhoff,Sayoko Moroi,Novel drug delivery and treatments for glaucoma
+LSA:NatSci,Pharmacy,Mark Meyerhoff,Steve Schwendeman,Novel drug delivery and treatments for glaucoma
+Medicine,Medicine,James (Jim) Montie,John Hollingsworth,Impact of Physician Social Networks on Prostate Cancer
+LSA:SocSci,Medicine,Jason Owen-Smith,John Hollingsworth,Impact of Physician Social Networks on Prostate Cancer
+LSA:SocSci,Medicine,Jason Owen-Smith,James (Jim) Montie,Impact of Physician Social Networks on Prostate Cancer
+LSA:SocSci,LSA:SocSci,Pauline Luong,Brian Min,Using satellite data to study how variation in energy
+Engineer,LSA:SocSci,Rajesh Rao Nadakuditi,Brian Min,Using satellite data to study how variation in energy
+Engineer,LSA:SocSci,Rajesh Rao Nadakuditi,Pauline Luong,Using satellite data to study how variation in energy
+Engineer,Info,Atul Prakash,Mark Ackerman,Infrastructure for Context-Aware Computing
+Info,Info,Mark Newman,Mark Ackerman,Infrastructure for Context-Aware Computing
+Engineer,Info,Atul Prakash,Mark Newman,Infrastructure for Context-Aware Computing
+Engineer,PubHealth,Christian M. Lastoskie,Rudy J. Richardson,Dysfunction of Dinitrobenzene-Bound Mitochondrial
+Engineer,PubHealth,Christian M. Lastoskie,Martin Philbert,Dysfunction of Dinitrobenzene-Bound Mitochondrial
+PubHealth,PubHealth,Martin Philbert,Rudy J. Richardson,Dysfunction of Dinitrobenzene-Bound Mitochondrial
+LSA:NatSci,LSA:NatSci,Janine Maddock,Brandon Ruotolo,Weighing Individual Ribosomes: Developing Structural
+LSA:NatSci,Medicine,Brandon Ruotolo,Philip Andrews,Weighing Individual Ribosomes: Developing Structural
+LSA:NatSci,Medicine,Janine Maddock,Philip Andrews,Weighing Individual Ribosomes: Developing Structural
+NatResEnv,PubHealth,Johannes Foufopoulos,Joseph Eisenberg,Effects of land management on interspecies transmission
+NatResEnv,PubHealth,Rebecca Hardin,Joseph Eisenberg,Effects of land management on interspecies transmission
+NatResEnv,NatResEnv,Rebecca Hardin,Johannes Foufopoulos,Effects of land management on interspecies transmission
+Medicine,Medicine,Frank (Jake) Seagull,Rishindra Reddy,Improving Resident Rotation Scheduling to Maximize
+Engineer,Medicine,Amy Cohn,Rishindra Reddy,Improving Resident Rotation Scheduling to Maximize
+Engineer,Medicine,Amy Cohn,Frank (Jake) Seagull,Improving Resident Rotation Scheduling to Maximize
+Engineer,Medicine,Brian J. Love,Roni Shtein,Characterizing the efficacy of corneal crosslinking
+Engineer,LSA:NatSci,Brian J. Love,Anne McNeil,Characterizing the efficacy of corneal crosslinking
+LSA:NatSci,Medicine,Anne McNeil,Roni Shtein,Characterizing the efficacy of corneal crosslinking
+Medicine,Medicine,Lisa Harris,Raymond De Vries,The making of a physician: the moral aspects of premedical
+LSA:SocSci,Medicine,Renee Anspach,Raymond De Vries,The making of a physician: the moral aspects of premedical
+LSA:SocSci,Medicine,Renee Anspach,Lisa Harris,The making of a physician: the moral aspects of premedical
+LSI,Medicine,John K. Kim,Gary  Hammer,MicroRNA regulation in adrenocortical disease
+Medicine,Medicine,Thomas Giordano,Gary  Hammer,MicroRNA regulation in adrenocortical disease
+LSI,Medicine,John K. Kim,Thomas Giordano,MicroRNA regulation in adrenocortical disease
+Libraries,Libraries,Justin Joque,Sigrid Cordell,Using the Digital to Read Literary Texts in Contex
+LSA:Hum,Libraries,June Howard,Sigrid Cordell,Using the Digital to Read Literary Texts in Contex
+LSA:Hum,Libraries,June Howard,Justin Joque,Using the Digital to Read Literary Texts in Contex
+Business,LSA:SocSci,Fred Feinberg,Elizabeth Bruch,"Dyadic Bayesian Discrete Choice Models, applied to"
+Business,Engineer,Fred Feinberg,Panos Papalambros,"Dyadic Bayesian Discrete Choice Models, applied to"
+Engineer,LSA:SocSci,Panos Papalambros,Elizabeth Bruch,"Dyadic Bayesian Discrete Choice Models, applied to"
+Pharmacy,Pharmacy,Anna Schwendeman,James Moon,Therapeutic application of synthetic HDL for treatment
+Medicine,Pharmacy,Mariana Kaplan,James Moon,Therapeutic application of synthetic HDL for treatment
+Medicine,Pharmacy,Mariana Kaplan,Anna Schwendeman,Therapeutic application of synthetic HDL for treatment
+ArchUrban,Engineer,Sean Ahlquist,Anthony M. Waas,Mechanical Properties and Computational Methods for
+ArchUrban,Engineer,Sean Ahlquist,Georg Essl,Mechanical Properties and Computational Methods for
+Engineer,Engineer,Georg Essl,Anthony M. Waas,Mechanical Properties and Computational Methods for
+LSA:NatSci,LSA:NatSci,Katherine Freese,David Gerdes,Dark Matter Detectors
+Engineer,LSA:NatSci,Rachel S.  Goldman,David Gerdes,Dark Matter Detectors
+Engineer,LSA:NatSci,Rachel S.  Goldman,Katherine Freese,Dark Matter Detectors
+Engineer,Engineer,Benjamin Longmier,Juan Manuel Rivas Davila,COOL-Plasma: Efficient cold-plasma generation for
+Engineer,PubHealth,Juan Manuel Rivas Davila,Alexander Rickard,COOL-Plasma: Efficient cold-plasma generation for
+Engineer,PubHealth,Benjamin Longmier,Alexander Rickard,COOL-Plasma: Efficient cold-plasma generation for
+Engineer,Medicine,Ellen Arruda,Asheesh Bedi,Understanding ACL Strain Patterns
+Kines,Medicine,Scott McLean,Asheesh Bedi,Understanding ACL Strain Patterns
+Engineer,Kines,Ellen Arruda,Scott McLean,Understanding ACL Strain Patterns
+Medicine,PubHealth,Suzanne Dooley-Hash,Daniel Eisenberg,Research Hub on College Student Mental Health
+Medicine,PubHealth,Kelli Hall,Daniel Eisenberg,Research Hub on College Student Mental Health
+Medicine,Medicine,Kelli Hall,Suzanne Dooley-Hash,Research Hub on College Student Mental Health
+LSI,Medicine,Lois Weisman,James Dowling,"Self eating, PIPs, and muscle disease"
+Medicine,Medicine,Daniel Klionsky,James Dowling,"Self eating, PIPs, and muscle disease"
+LSI,Medicine,Lois Weisman,Daniel Klionsky,"Self eating, PIPs, and muscle disease"
+LSA:NatSci,Medicine,Yanzhuang Wang,Geoffrey Murphy,Membrane and synaptic  dynamics in Alzheimer's disease
+Medicine,Medicine,Henry Paulson,Geoffrey Murphy,Membrane and synaptic  dynamics in Alzheimer's disease
+LSA:NatSci,Medicine,Yanzhuang Wang,Henry Paulson,Membrane and synaptic  dynamics in Alzheimer's disease
+Medicine,Medicine,Sandra Camelo-Piragua,Jean-Francois (jeff) Rual,CHARACTERIZATION OF THE NOTCH MOLECULAR NETWORK IN
+LSI,Medicine,Cheng-Yu Lee,Jean-Francois (jeff) Rual,CHARACTERIZATION OF THE NOTCH MOLECULAR NETWORK IN
+LSI,Medicine,Cheng-Yu Lee,Sandra Camelo-Piragua,CHARACTERIZATION OF THE NOTCH MOLECULAR NETWORK IN
+Business,Engineer,Hyun-Soo Ahn,Eunshin Byon,Project Incentive Design Toward an Integrated  Sector
+Business,Engineer,Hyun-Soo Ahn,Xiuli Chao,Project Incentive Design Toward an Integrated  Sector
+Engineer,Engineer,Xiuli Chao,Eunshin Byon,Project Incentive Design Toward an Integrated  Sector
+Medicine,OVPR,Paul Carson,Luis Hernandez-Garcia,Focused ultrasound release of encapsulated drugs and
+Engineer,Medicine,Joseph L. Bull,Paul Carson,Focused ultrasound release of encapsulated drugs and
+Engineer,OVPR,Joseph L. Bull,Luis Hernandez-Garcia,Focused ultrasound release of encapsulated drugs and
+Engineer,Engineer,SangHyun Lee,Vineet Kamat,Virtual Prototyping of Human-Robot Collaboration in
+Engineer,Info,Vineet Kamat,Lionel  Robert,Virtual Prototyping of Human-Robot Collaboration in
+Engineer,Info,SangHyun Lee,Lionel  Robert,Virtual Prototyping of Human-Robot Collaboration in
+Engineer,NatResEnv,Margaret  Wooldridge,Raymond De Young,Urgent transitions: Responding to emerging biophysical
+NatResEnv,NatResEnv,Thomas Princen,Raymond De Young,Urgent transitions: Responding to emerging biophysical
+Engineer,NatResEnv,Margaret  Wooldridge,Thomas Princen,Urgent transitions: Responding to emerging biophysical
+ISR,LSA:SocSci,Frederick Conrad,Joshua Pasek,Linking Social Media and Surveys: Processes and Tool
+Info,LSA:SocSci,Clifford Lampe,Joshua Pasek,Linking Social Media and Surveys: Processes and Tool
+ISR,Info,Frederick Conrad,Clifford Lampe,Linking Social Media and Surveys: Processes and Tool
+Engineer,Engineer,David Dowling,Eric Johnsen,Ultrasound-Induced Pulmonary Hemorrhage During Diagnostic
+Engineer,Medicine,Eric Johnsen,Douglas Miller,Ultrasound-Induced Pulmonary Hemorrhage During Diagnostic
+Engineer,Medicine,David Dowling,Douglas Miller,Ultrasound-Induced Pulmonary Hemorrhage During Diagnostic
+Medicine,Medicine,Denise John,Joshua  Stein,A Novel Glaucoma Drainage Device
+Engineer,Medicine,Yogesh Gianchandani,Joshua  Stein,A Novel Glaucoma Drainage Device
+Engineer,Medicine,Yogesh Gianchandani,Denise John,A Novel Glaucoma Drainage Device
+Medicine,PubHealth,Emily Fredericks,Kenneth Resnicow,Incorporating Tailored Adherence Assessment and Promotion
+Medicine,Medicine,Michelle Meade,Emily Fredericks,Incorporating Tailored Adherence Assessment and Promotion
+Medicine,PubHealth,Michelle Meade,Kenneth Resnicow,Incorporating Tailored Adherence Assessment and Promotion
+Dentistry,Medicine,Petros Papagerakis,Maureen Sartor,Novel insights in the causes and treatment of autoimmune
+Dentistry,Medicine,Petros Papagerakis,Emily Somers,Novel insights in the causes and treatment of autoimmune
+Medicine,Medicine,Emily Somers,Maureen Sartor,Novel insights in the causes and treatment of autoimmune
+Dentistry,LSA:NatSci,Yvonne L. Kapila,A. Ramamoorthy,Antimicrobial Peptides as Anticancer Agents
+Dentistry,Medicine,Yvonne L. Kapila,Frank Worden,Antimicrobial Peptides as Anticancer Agents
+LSA:NatSci,Medicine,A. Ramamoorthy,Frank Worden,Antimicrobial Peptides as Anticancer Agents
+LSA:NatSci,LSA:NatSci,Rick Riolo,Carl Simon,Modeling the Spread of Crime
+LSA:NatSci,NatResEnv,Carl Simon,Bobbi Low,Modeling the Spread of Crime
+LSA:NatSci,NatResEnv,Rick Riolo,Bobbi Low,Modeling the Spread of Crime
+Engineer,Medicine,Brian Denton,Scott Tomlins,Measuring the Costs and Benefits of New Biomarkers
+Engineer,Medicine,Brian Denton,John Wei,Measuring the Costs and Benefits of New Biomarkers
+Medicine,Medicine,John Wei,Scott Tomlins,Measuring the Costs and Benefits of New Biomarkers
+ISR,NatResEnv,Natalie Colabianchi,Daniel G. Brown,Environments and Activity: GPS-Based Collection of
+ISR,PubHealth,Natalie Colabianchi,Ana V Diez Roux,Environments and Activity: GPS-Based Collection of
+NatResEnv,PubHealth,Daniel G. Brown,Ana V Diez Roux,Environments and Activity: GPS-Based Collection of
+LSA:NatSci,Pharmacy,Carol Fierke,David Sherman,Discovery of Natural Products for Probing the Structure
+LSA:NatSci,LSA:NatSci,Hashim Al-Hashimi,Carol Fierke,Discovery of Natural Products for Probing the Structure
+LSA:NatSci,Pharmacy,Hashim Al-Hashimi,David Sherman,Discovery of Natural Products for Probing the Structure
+Engineer,Medicine,Albert Shih,Steven Kasten,Manufacturing Designer Free Flaps Utilizing a Stem
+Engineer,Engineer,Chinedum Okwudire,Albert Shih,Manufacturing Designer Free Flaps Utilizing a Stem
+Engineer,Medicine,Chinedum Okwudire,Steven Kasten,Manufacturing Designer Free Flaps Utilizing a Stem
+LSA:SocSci,Medicine,Twila Tardif,Kate Fitzgerald,Emotion Regulation in the Brain
+LSA:SocSci,LSA:SocSci,William Gehring,Twila Tardif,Emotion Regulation in the Brain
+LSA:SocSci,Medicine,William Gehring,Kate Fitzgerald,Emotion Regulation in the Brain
+Medicine,Medicine,Steven Buchman,Stewart Wang,Novel imaging technologies for early detection of
+LSA:NatSci,Medicine,Michael Morris,Stewart Wang,Novel imaging technologies for early detection of
+LSA:NatSci,Medicine,Michael Morris,Steven Buchman,Novel imaging technologies for early detection of
+Engineer,Medicine,Ariella Shikanov,Akira Ono,Understanding HIV: How cell-to-cell virus transmission
+Medicine,Medicine,Kathleen Collins,Akira Ono,Understanding HIV: How cell-to-cell virus transmission
+Engineer,Medicine,Ariella Shikanov,Kathleen Collins,Understanding HIV: How cell-to-cell virus transmission
+Medicine,PubHealth,Richard Auchus,Daniel McConnell,Marker steroids in primary aldosteronism
+Medicine,Medicine,Elif Oral,Richard Auchus,Marker steroids in primary aldosteronism
+Medicine,PubHealth,Elif Oral,Daniel McConnell,Marker steroids in primary aldosteronism
+Medicine,Medicine,Victor Elner,Amr Sawalha,A genome-wide DNA methylation study in giant cell
+Medicine,PubHealth,Amr Sawalha,Bin Nan,A genome-wide DNA methylation study in giant cell
+Medicine,PubHealth,Victor Elner,Bin Nan,A genome-wide DNA methylation study in giant cell
+LSA:NatSci,NatResEnv,John Vandermeer,Ivette Perfecto,Urban Gardens: constrained auto-generation of spatial
+ArchUrban,NatResEnv,Lesli Hoey,Ivette Perfecto,Urban Gardens: constrained auto-generation of spatial
+ArchUrban,LSA:NatSci,Lesli Hoey,John Vandermeer,Urban Gardens: constrained auto-generation of spatial
+Medicine,Medicine,Yi Sun,Ivan Maillard,"Role of Deptor in tumorigenesis, muscle homeostasis"
+LSI,Medicine,Jiandie Lin,Ivan Maillard,"Role of Deptor in tumorigenesis, muscle homeostasis"
+LSI,Medicine,Jiandie Lin,Yi Sun,"Role of Deptor in tumorigenesis, muscle homeostasis"
+Dentistry,Medicine,Peter X. Ma,Bo Yang,Develop patient specific vascular graft using patient's
+Medicine,Medicine,Eugene Chen,Bo Yang,Develop patient specific vascular graft using patient's
+Dentistry,Medicine,Peter X. Ma,Eugene Chen,Develop patient specific vascular graft using patient's
+ArchUrban,Medicine,Mojtaba Navvab,Kwoon Wong,Virtual reality as a surrogate sensory environment
+ArchUrban,Engineer,Mojtaba Navvab,Pei-Cheng Ku,Virtual reality as a surrogate sensory environment
+Engineer,Medicine,Pei-Cheng Ku,Kwoon Wong,Virtual reality as a surrogate sensory environment
+ArtDesign,SocialWork,Anne Mondro,Lydia Li,Retaining Identity:  Studying creativity's effects
+ArtDesign,PubHealth,Anne Mondro,Cathleen  Connell,Retaining Identity:  Studying creativity's effects
+PubHealth,SocialWork,Cathleen  Connell,Lydia Li,Retaining Identity:  Studying creativity's effects
+Dentistry,Engineer,Renny T. Franceschi,Cheri X. Deng,Therapeutic Ultrasound for Bone Regeneration
+Dentistry,Medicine,Renny T. Franceschi,Brian Fowlkes,Therapeutic Ultrasound for Bone Regeneration
+Engineer,Medicine,Cheri X. Deng,Brian Fowlkes,Therapeutic Ultrasound for Bone Regeneration
+Medicine,Medicine,Weibin Zhou,Matthew Sampson,A Functional Genomics Approach to Identify Kidney
+Medicine,PubHealth,Matthew Sampson,Hyun Min Kang,A Functional Genomics Approach to Identify Kidney
+Medicine,PubHealth,Weibin Zhou,Hyun Min Kang,A Functional Genomics Approach to Identify Kidney
+Engineer,Engineer,Levi T. Thompson,Phillip E. Savage,Learning how to make liquid fuels from algae oil under
+Engineer,NatResEnv,Phillip E. Savage,Gregory A. Keoleian,Learning how to make liquid fuels from algae oil under
+Engineer,NatResEnv,Levi T. Thompson,Gregory A. Keoleian,Learning how to make liquid fuels from algae oil under
+LSA:SocSci,PubPolicy,Allen Hicken,Dean Yang,Combating Vote-Selling: A Field Experiment in the
+Business,PubPolicy,Stephen G. Leider,Dean Yang,Combating Vote-Selling: A Field Experiment in the
+Business,LSA:SocSci,Stephen G. Leider,Allen Hicken,Combating Vote-Selling: A Field Experiment in the
+Medicine,Medicine,Noelle Carlozzi,Kevin Chung,"CHAMPION: Congenital Hand Anomalies -- Measuring PROMIS,"
+Medicine,OVPR,Kevin Chung,Hyungjin Myra Kim,"CHAMPION: Congenital Hand Anomalies -- Measuring PROMIS,"
+Medicine,OVPR,Noelle Carlozzi,Hyungjin Myra Kim,"CHAMPION: Congenital Hand Anomalies -- Measuring PROMIS,"
+Medicine,Pharmacy,Shaomeng Wang,Duxin Sun,Drug Discovery to block protein-protein interactions
+Medicine,Pharmacy,Yali Dou,Duxin Sun,Drug Discovery to block protein-protein interactions
+Medicine,Medicine,Yali Dou,Shaomeng Wang,Drug Discovery to block protein-protein interactions
+Engineer,Medicine,Katsuo Kurabayashi,Timothy Cornell,A biochip platform to precisely detect sepsis-suffering
+Engineer,Engineer,Jianping Fu,Katsuo Kurabayashi,A biochip platform to precisely detect sepsis-suffering
+Engineer,Medicine,Jianping Fu,Timothy Cornell,A biochip platform to precisely detect sepsis-suffering
+Business,Law,Dana M. Muir,Michael Barr,"Center on Finance, Law and Policy"
+Business,Law,Gretchen Spreitzer,Michael Barr,"Center on Finance, Law and Policy"
+Business,Business,Gretchen Spreitzer,Dana M. Muir,"Center on Finance, Law and Policy"
+Engineer,Medicine,Edwin Romeijn,Martha Matuszak,Radiation therapy reatment plan optimization for liver
+Medicine,Medicine,Mary Feng,Martha Matuszak,Radiation therapy reatment plan optimization for liver
+Engineer,Medicine,Edwin Romeijn,Mary Feng,Radiation therapy reatment plan optimization for liver
+Engineer,Medicine,Mariel Lavieri,Gary Freed,Strategic Health Workforce Planning
+Engineer,Nursing,Mariel Lavieri,Kristy Martyn,Strategic Health Workforce Planning
+Medicine,Nursing,Gary Freed,Kristy Martyn,Strategic Health Workforce Planning
+Engineer,Engineer,Angela  Violi,Arvind Atreya,An autonomous biomass reactor to create carbon neutral
+Business,Engineer,Owen Q. Wu,Arvind Atreya,An autonomous biomass reactor to create carbon neutral
+Business,Engineer,Owen Q. Wu,Angela  Violi,An autonomous biomass reactor to create carbon neutral
+Engineer,LSA:NatSci,Mark Flanner,Sarah Aciego,Dust in sea-ice: A source of nutrients and climate
+Engineer,LSA:NatSci,Mark Flanner,Ingrid Hendy,Dust in sea-ice: A source of nutrients and climate
+LSA:NatSci,LSA:NatSci,Ingrid Hendy,Sarah Aciego,Dust in sea-ice: A source of nutrients and climate
+Medicine,Medicine,John Magee,Pratima Sharma,Survival Benefit of Simultaneous Liver and Kidney
+Medicine,PubHealth,Pratima Sharma,Douglas Schaubel,Survival Benefit of Simultaneous Liver and Kidney
+Medicine,PubHealth,John Magee,Douglas Schaubel,Survival Benefit of Simultaneous Liver and Kidney
+LSA:NatSci,LSA:NatSci,Jeff McMahon,Chris Miller,Big Data in astronomy: U-M astroinformatics research
+Engineer,LSA:NatSci,Alfred Hero,Chris Miller,Big Data in astronomy: U-M astroinformatics research
+Engineer,LSA:NatSci,Alfred Hero,Jeff McMahon,Big Data in astronomy: U-M astroinformatics research
+Engineer,LSA:NatSci,Xiaogan Liang,Lu Li,"Topological Insulator, Nano Transistors for Post-CMOS"
+LSA:NatSci,LSA:NatSci,Kai Sun,Lu Li,"Topological Insulator, Nano Transistors for Post-CMOS"
+Engineer,LSA:NatSci,Xiaogan Liang,Kai Sun,"Topological Insulator, Nano Transistors for Post-CMOS"
+LSA:NatSci,Medicine,Kenneth Cadigan,James Douglas Engel,Regulating genes in animals
+LSA:NatSci,Medicine,Kenneth Cadigan,Scott Barolo,Regulating genes in animals
+Medicine,Medicine,Scott Barolo,James Douglas Engel,Regulating genes in animals
+LSA:Hum,Medicine,Jonathan Brennan,"Renee Lajiness-O'Neill, PhD",Neural Coherence at Rest and During Language Processing
+LSA:Hum,LSA:SocSci,Jonathan Brennan,Ioulia Kovelman,Neural Coherence at Rest and During Language Processing
+LSA:SocSci,Medicine,Ioulia Kovelman,"Renee Lajiness-O'Neill, PhD",Neural Coherence at Rest and During Language Processing
+Education,Info,Barry Fishman,Stephanie Teasley,Social Networks and Student Engagement
+Education,Education,Stuart Karabenick,Barry Fishman,Social Networks and Student Engagement
+Education,Info,Stuart Karabenick,Stephanie Teasley,Social Networks and Student Engagement
+Engineer,LSA:NatSci,Akram Boukai,Stephen Maldonado,Thin Nanostructured Silicon Solar Cells Using Optical
+Engineer,Engineer,Anish Tuteja,Akram Boukai,Thin Nanostructured Silicon Solar Cells Using Optical
+Engineer,LSA:NatSci,Anish Tuteja,Stephen Maldonado,Thin Nanostructured Silicon Solar Cells Using Optical
+Engineer,Medicine,Cindy Chestek,Parag Patil,Low power electronics for brain machine interface
+Engineer,Engineer,Michael Flynn,Cindy Chestek,Low power electronics for brain machine interface
+Engineer,Medicine,Michael Flynn,Parag Patil,Low power electronics for brain machine interface
+Info,NatResEnv,Joyojeet Pal,Bilal Butt,Unintended Consequences of Technology in Development:
+LSA:Hum,NatResEnv,Omolade Adunbi,Bilal Butt,Unintended Consequences of Technology in Development:
+Info,LSA:Hum,Joyojeet Pal,Omolade Adunbi,Unintended Consequences of Technology in Development:
+Education,Medicine,Barbara Mirel,Brian Athey,Development of Bioinformatics Tools to Support Clinical
+Medicine,Medicine,Yuanfang Guan,Brian Athey,Development of Bioinformatics Tools to Support Clinical
+Education,Medicine,Barbara Mirel,Yuanfang Guan,Development of Bioinformatics Tools to Support Clinical
+Engineer,Engineer,Sunitha Nagrath,Omolola Eniola-Adefeso,Integrated Experimental and Computational Approach
+Engineer,LSA:NatSci,Omolola Eniola-Adefeso,Shravan  Veerapaneni,Integrated Experimental and Computational Approach
+Engineer,LSA:NatSci,Sunitha Nagrath,Shravan  Veerapaneni,Integrated Experimental and Computational Approach
+Dentistry,Medicine,Fei Liu,Jun-Lin Guan,The roles of autophagy in mesenchymal stem cells
+Dentistry,Dentistry,Paul H. Krebsbach,Fei Liu,The roles of autophagy in mesenchymal stem cells
+Dentistry,Medicine,Paul H. Krebsbach,Jun-Lin Guan,The roles of autophagy in mesenchymal stem cells
+LSA:NatSci,Medicine,Amy Chang,James Shayman,Regulation of Sphingolipid Homeostasis and Implications
+LSA:NatSci,Medicine,Amy Chang,Peter Arvan,Regulation of Sphingolipid Homeostasis and Implications
+Medicine,Medicine,Peter Arvan,James Shayman,Regulation of Sphingolipid Homeostasis and Implications
+Medicine,Medicine,Christiane Wobus,Mary O'Riordan,Constructing a complex intestine in vitro
+LSA:NatSci,Medicine,Ann Miller,Mary O'Riordan,Constructing a complex intestine in vitro
+LSA:NatSci,Medicine,Ann Miller,Christiane Wobus,Constructing a complex intestine in vitro
+Medicine,PubHealth,Sandra  Wong,Mousumi Banerjee,"Estimating conditional survival for breast, colorectal"
+Medicine,Medicine,Megan Haymart,Sandra  Wong,"Estimating conditional survival for breast, colorectal"
+Medicine,PubHealth,Megan Haymart,Mousumi Banerjee,"Estimating conditional survival for breast, colorectal"
+Engineer,Medicine,Michael J. Solomon,John Younger,Novel treatments for infected hemodialysis catheter
+Medicine,Medicine,Michael Heung,John Younger,Novel treatments for infected hemodialysis catheter
+Engineer,Medicine,Michael J. Solomon,Michael Heung,Novel treatments for infected hemodialysis catheter
+Medicine,PubHealth,Lena Chen,Edward Norton,Medicine Consults
+Medicine,Medicine,John Birkmeyer,Lena Chen,Medicine Consults
+Medicine,PubHealth,John Birkmeyer,Edward Norton,Medicine Consults
+Medicine,Medicine,Richard Ohye,Martin Bocks,Bioabsorbable device for percutaneous atrial septal
+Engineer,Medicine,Scott Hollister,Martin Bocks,Bioabsorbable device for percutaneous atrial septal
+Engineer,Medicine,Scott Hollister,Richard Ohye,Bioabsorbable device for percutaneous atrial septal
+Dentistry,Medicine,David H. Kohn,Ken Kozloff,Development of targeted nano-theranostic platform
+Engineer,Medicine,Mohamed E.H. ElSayed,Ken Kozloff,Development of targeted nano-theranostic platform
+Dentistry,Engineer,David H. Kohn,Mohamed E.H. ElSayed,Development of targeted nano-theranostic platform
+LSA:NatSci,LSA:NatSci,Nathan Sheldon,Gregory Dick,Tracking water and biodiversity resources in the Great
+LSA:NatSci,NatResEnv,Gregory Dick,G. Allen Burton,Tracking water and biodiversity resources in the Great
+LSA:NatSci,NatResEnv,Nathan Sheldon,G. Allen Burton,Tracking water and biodiversity resources in the Great
+Libraries,Medicine,Jean Song,Ryan Mills,Scientific Needs Assessment and Analysis of Bioinformatics
+Libraries,Medicine,Jean Song,Charles Burant,Scientific Needs Assessment and Analysis of Bioinformatics
+Medicine,Medicine,Charles Burant,Ryan Mills,Scientific Needs Assessment and Analysis of Bioinformatics
+LSI,Medicine,Ken Inoki,Mayumi Inoue,ECM Remodeling in Diabetic Kidney Disease
+Medicine,Medicine,"Frank C. Brosius, III",Mayumi Inoue,ECM Remodeling in Diabetic Kidney Disease
+LSI,Medicine,Ken Inoki,"Frank C. Brosius, III",ECM Remodeling in Diabetic Kidney Disease
+ISR,Info,Emily Falk,Nicole Ellison,Adolescent social connection in online environment
+ISR,Info,Emily Falk,Sarita Yardi,Adolescent social connection in online environment
+Info,Info,Sarita Yardi,Nicole Ellison,Adolescent social connection in online environment
+LSA:NatSci,Medicine,Lyle Simmons,Harry Mobley,Preclinical development of antibacterial compound
+LSA:NatSci,Medicine,Lyle Simmons,Maria Sandkvist,Preclinical development of antibacterial compound
+Medicine,Medicine,Maria Sandkvist,Harry Mobley,Preclinical development of antibacterial compound
+PubHealth,PubHealth,Patricia A. Peyser,Sung Kyun Park,Metals and Degenerative Diseases: an Interdisciplinary
+LSI,PubHealth,Mi Hee Lim,Sung Kyun Park,Metals and Degenerative Diseases: an Interdisciplinary
+LSI,PubHealth,Mi Hee Lim,Patricia A. Peyser,Metals and Degenerative Diseases: an Interdisciplinary
+ISR,PubHealth,Helen Levy,Richard A. Hirth,Did the housing bubble affect long-term care insurance
+ISR,PubHealth,Kenneth Langa,Richard A. Hirth,Did the housing bubble affect long-term care insurance
+ISR,ISR,Kenneth Langa,Helen Levy,Did the housing bubble affect long-term care insurance
+Dentistry,Dentistry,Brian A. Pierchala,Nisha J. D'Silva,Integration of cell growth and movement
+Dentistry,Medicine,Nisha J. D'Silva,Roman Giger,Integration of cell growth and movement
+Dentistry,Medicine,Brian A. Pierchala,Roman Giger,Integration of cell growth and movement
+Engineer,Medicine,Clayton Scott,Chandra Sripada,Pattern classification for discovery of biomarkers
+Medicine,Medicine,James Swain,Chandra Sripada,Pattern classification for discovery of biomarkers
+Engineer,Medicine,Clayton Scott,James Swain,Pattern classification for discovery of biomarkers
+Dentistry,Medicine,Hector  Rios,Gisela Mueller,"Periodontal Health and Periostin, Potential Modifiers"
+Dentistry,Medicine,Hector  Rios,Melvyn Rubenfire,"Periodontal Health and Periostin, Potential Modifiers"
+Medicine,Medicine,Melvyn Rubenfire,Gisela Mueller,"Periodontal Health and Periostin, Potential Modifiers"
+Engineer,Medicine,Krishna Garikipati,Sofia Merajver,Using cell signaling and cell behavior for personalized
+Engineer,Medicine,Allen Liu,Sofia Merajver,Using cell signaling and cell behavior for personalized
+Engineer,Engineer,Allen Liu,Krishna Garikipati,Using cell signaling and cell behavior for personalized
+Medicine,Medicine,Sue O'Shea,Melvin McInnis,Cellular Models for Bipolar Disorder using Induced
+LSI,Medicine,Bing Ye,Melvin McInnis,Cellular Models for Bipolar Disorder using Induced
+LSI,Medicine,Bing Ye,Sue O'Shea,Cellular Models for Bipolar Disorder using Induced
+Engineer,Medicine,Greg M. Thurber,William Rainey,Development of Imaging Methods to Diagnose Adrenal
+Medicine,Medicine,Andreas Moraitis,William Rainey,Development of Imaging Methods to Diagnose Adrenal
+Engineer,Medicine,Greg M. Thurber,Andreas Moraitis,Development of Imaging Methods to Diagnose Adrenal
+Engineer,Medicine,L. Jay Guo,Tae-Hwa Chun,High-resolution imaging of fat tissue metabolism
+Medicine,Medicine,Xueding Wang,Tae-Hwa Chun,High-resolution imaging of fat tissue metabolism
+Engineer,Medicine,L. Jay Guo,Xueding Wang,High-resolution imaging of fat tissue metabolism
+Medicine,PubHealth,Joel Gagnier,Hal Morgenstern,Core outcomes measures for rotator cuff disorders
+Libraries,Medicine,Mark Mac Eachern,Joel Gagnier,Core outcomes measures for rotator cuff disorders
+Libraries,PubHealth,Mark Mac Eachern,Hal Morgenstern,Core outcomes measures for rotator cuff disorders
+Medicine,PubHealth,Thomas Carey,Rafael Meza,Oral HPV infections and the risk of oral and pharyngeal
+Medicine,PubHealth,Thomas Carey,Marisa Eisenberg,Oral HPV infections and the risk of oral and pharyngeal
+PubHealth,PubHealth,Marisa Eisenberg,Rafael Meza,Oral HPV infections and the risk of oral and pharyngeal
+LSA:NatSci,Medicine,Sarah Veatch,Dipankar Ray,Do lipids alter the effectiveness of cancer therapies
+LSA:NatSci,Medicine,Sarah Veatch,Mukesh Nyati,Do lipids alter the effectiveness of cancer therapies
+Medicine,Medicine,Mukesh Nyati,Dipankar Ray,Do lipids alter the effectiveness of cancer therapies
+Medicine,Medicine,Brian Callaghan,Eva Feldman,Environment and epigenetics in ALS
+Medicine,PubHealth,Eva Feldman,Stuart Arthur Batterman,Environment and epigenetics in ALS
+Medicine,PubHealth,Brian Callaghan,Stuart Arthur Batterman,Environment and epigenetics in ALS
+Medicine,Medicine,Andrew Campbell,Dan Eitzman,Prevention of vascular complications in sickle cell
+Kines,Medicine,Pete Bodary,Dan Eitzman,Prevention of vascular complications in sickle cell
+Kines,Medicine,Pete Bodary,Andrew Campbell,Prevention of vascular complications in sickle cell
+Engineer,Medicine,Shuichi Takayama,Evan Keller,Modeling prostate cancer metastasis in bone
+LSA:NatSci,Medicine,Trachette Jackson,Evan Keller,Modeling prostate cancer metastasis in bone
+Engineer,LSA:NatSci,Shuichi Takayama,Trachette Jackson,Modeling prostate cancer metastasis in bone
+LSA:NatSci,LSA:NatSci,Myron Campbell,Cagliyan Kurdak,Enhancing Lifetime and Stability of Rechargeable Battery
+Engineer,LSA:NatSci,Anna Stefanopoulou,Cagliyan Kurdak,Enhancing Lifetime and Stability of Rechargeable Battery
+Engineer,LSA:NatSci,Anna Stefanopoulou,Myron Campbell,Enhancing Lifetime and Stability of Rechargeable Battery
+Medicine,Medicine,Jordan Shavit,Xiaochun Yu,Targeting DNA methylation by TALE enzymes
+LSA:NatSci,Medicine,Cunming Duan,Xiaochun Yu,Targeting DNA methylation by TALE enzymes
+LSA:NatSci,Medicine,Cunming Duan,Jordan Shavit,Targeting DNA methylation by TALE enzymes
+Medicine,Pharmacy,Ruma Banerjee,Gus Rosania,Molecular Engineering of Self-Organizing & Site-Directed
+Medicine,Pharmacy,Joel Swanson,Gus Rosania,Molecular Engineering of Self-Organizing & Site-Directed
+Medicine,Medicine,Joel Swanson,Ruma Banerjee,Molecular Engineering of Self-Organizing & Site-Directed
+Medicine,Medicine,"Lawrence An, MD",David Burke,Monitoring of patients using low-cost wireless health
+LSA:NatSci,Medicine,George Michailidis,David Burke,Monitoring of patients using low-cost wireless health
+LSA:NatSci,Medicine,George Michailidis,"Lawrence An, MD",Monitoring of patients using low-cost wireless health
+LSI,Medicine,John Tesmer,Sivaraj Sivaramakrishnan,Transformative approaches to study cell signaling
+Medicine,Medicine,Margaret Westfall,Sivaraj Sivaramakrishnan,Transformative approaches to study cell signaling
+LSI,Medicine,John Tesmer,Margaret Westfall,Transformative approaches to study cell signaling
+Dentistry,Dentistry,Yuji Mishina,Charlotte Mistretta,Hedgehog pathway cancer therapy and taste and smell
+Dentistry,Medicine,Charlotte Mistretta,Andrzej (Anj) Dlugosz,Hedgehog pathway cancer therapy and taste and smell
+Dentistry,Medicine,Yuji Mishina,Andrzej (Anj) Dlugosz,Hedgehog pathway cancer therapy and taste and smell
+Engineer,Medicine,Kazu Saitou,James Balter,Synthetic human models for image-guided intervention
+Medicine,Medicine,Kristy Brock,James Balter,Synthetic human models for image-guided intervention
+Engineer,Medicine,Kazu Saitou,Kristy Brock,Synthetic human models for image-guided intervention
+Medicine,Pharmacy,Tomasz Cierpicki,Matthew Soellner,Development of a method for identifying small molecule
+Medicine,Medicine,Jolanta Grembecka,Tomasz Cierpicki,Development of a method for identifying small molecule
+Medicine,Pharmacy,Jolanta Grembecka,Matthew Soellner,Development of a method for identifying small molecule
+Info,Info,David Wallace,Paul  Conway,"Community, Memory, and Ethical Access to Music from"
+Info,LSA:SocSci,Paul  Conway,Kelly Askew,"Community, Memory, and Ethical Access to Music from"
+Info,LSA:SocSci,David Wallace,Kelly Askew,"Community, Memory, and Ethical Access to Music from"
+Medicine,OVPR,Patrick Carter,Carol Flannagan,Improving Trauma Triage Models for Motor Vehicle Crashe
+Medicine,OVPR,Patrick Carter,Jonathan Rupp,Improving Trauma Triage Models for Motor Vehicle Crashe
+OVPR,OVPR,Jonathan Rupp,Carol Flannagan,Improving Trauma Triage Models for Motor Vehicle Crashe
+Medicine,Pharmacy,Ronald Buckanovich,Scott Larsen,ALDH inhibitors as cancer differentiation therapy
+Engineer,Medicine,Euisik Yoon,Ronald Buckanovich,ALDH inhibitors as cancer differentiation therapy
+Engineer,Pharmacy,Euisik Yoon,Scott Larsen,ALDH inhibitors as cancer differentiation therapy
+Medicine,Medicine,W. Michael King,Susan Shore,Interactions between hearing and balance
+LSA:SocSci,Medicine,Wayne Aldridge,Susan Shore,Interactions between hearing and balance
+LSA:SocSci,Medicine,Wayne Aldridge,W. Michael King,Interactions between hearing and balance
+Engineer,Engineer,Xiaoqing Pan,Emmanouil (Manos)  Kioupakis,Structure-Property Relationships of Novel Oxides for
+Engineer,LSA:NatSci,Emmanouil (Manos)  Kioupakis,Bart Bartlett,Structure-Property Relationships of Novel Oxides for
+Engineer,LSA:NatSci,Xiaoqing Pan,Bart Bartlett,Structure-Property Relationships of Novel Oxides for
+Medicine,PubHealth,David Hanauer,Kai Zheng,Mining Social Media Data for the Patterns of Spatiotemporal
+Info,PubHealth,Qiaozhu Mei,Kai Zheng,Mining Social Media Data for the Patterns of Spatiotemporal
+Info,Medicine,Qiaozhu Mei,David Hanauer,Mining Social Media Data for the Patterns of Spatiotemporal
+Medicine,Medicine,Fan Meng,Joyce  Lee,Compelling Data Visualizations for Health
+Medicine,PubHealth,Joyce  Lee,Karen Eileen Peterson,Compelling Data Visualizations for Health
+Medicine,PubHealth,Fan Meng,Karen Eileen Peterson,Compelling Data Visualizations for Health
+LSA:Hum,NatResEnv,Peter McIsaac,Ines Ibanez,Digital Humanities Approaches to Popular Periodicals:
+Engineer,LSA:Hum,Sugih Jamin,Peter McIsaac,Digital Humanities Approaches to Popular Periodicals:
+Engineer,NatResEnv,Sugih Jamin,Ines Ibanez,Digital Humanities Approaches to Popular Periodicals:
+Info,LSA:SocSci,Eytan  Adar,Colleen Seifert,Addressing Individual and Group Biases with Data Visualizatio
+Info,LSA:SocSci,Eytan  Adar,Priti Shah,Addressing Individual and Group Biases with Data Visualizatio
+LSA:SocSci,LSA:SocSci,Priti Shah,Colleen Seifert,Addressing Individual and Group Biases with Data Visualizatio
+LSA:NatSci,Medicine,Raoul Kopelman,Pedro Lowenstein,Targeted Nanoparticle Based Medicine: Inhibiting glioma
+Engineer,LSA:NatSci,Robert M. Ziff,Raoul Kopelman,Targeted Nanoparticle Based Medicine: Inhibiting glioma
+Engineer,Medicine,Robert M. Ziff,Pedro Lowenstein,Targeted Nanoparticle Based Medicine: Inhibiting glioma
+LSA:SocSci,Medicine,Maureen Devlin,Karl Jepsen,"Bone, Exercise and Energy"
+Kines,Medicine,Katarina Borer,Karl Jepsen,"Bone, Exercise and Energy"
+Kines,LSA:SocSci,Katarina Borer,Maureen Devlin,"Bone, Exercise and Energy"
+Dentistry,Medicine,Jacques E. Nör,Qiao Li,Development of a cancer stem cell vaccine
+Medicine,Medicine,Mark Prince,Qiao Li,Development of a cancer stem cell vaccine
+Dentistry,Medicine,Jacques E. Nör,Mark Prince,Development of a cancer stem cell vaccine
+Medicine,Medicine,Cheong-Hee  Chang,Daniel Couriel,Extracellular Matrix  (ECM) Turnover in Chronic GVH
+Medicine,PubHealth,Daniel Couriel,Thomas Braun,Extracellular Matrix  (ECM) Turnover in Chronic GVH
+Medicine,PubHealth,Cheong-Hee  Chang,Thomas Braun,Extracellular Matrix  (ECM) Turnover in Chronic GVH
+Kines,LSA:SocSci,Kathryn Heinze,Sara Soderstrom,Emergence of locally-owned food business in Detroi
+Business,LSA:SocSci,Wayne Baker,Sara Soderstrom,Emergence of locally-owned food business in Detroi
+Business,Kines,Wayne Baker,Kathryn Heinze,Emergence of locally-owned food business in Detroi
+Medicine,Medicine,Jeffrey Martens,Benjamin Allen,Hedgehog pathway cancer therapy and taste and smell
+Dentistry,Medicine,Robert M. Bradley,Benjamin Allen,Hedgehog pathway cancer therapy and taste and smell
+Dentistry,Medicine,Robert M. Bradley,Jeffrey Martens,Hedgehog pathway cancer therapy and taste and smell
+Engineer,Pharmacy,Satinder Singh Baveja,Karen Farris,Adaptive Health Communications over Mobile Device
+Engineer,Medicine,Satinder Singh Baveja,John Piette,Adaptive Health Communications over Mobile Device
+Medicine,Pharmacy,John Piette,Karen Farris,Adaptive Health Communications over Mobile Device
+Engineer,Medicine,Andre Boehman,Ann Marie LeVine,Potential health effects of soot nanoparticles from
+Engineer,Medicine,Andre Boehman,Cory Hogaboam,Potential health effects of soot nanoparticles from
+Medicine,Medicine,Cory Hogaboam,Ann Marie LeVine,Potential health effects of soot nanoparticles from
+Dentistry,Medicine,Jian-Guo Geng,Jason Spence,Investigating intestinal function and disease
+Medicine,Medicine,Linda Samuelson,Jason Spence,Investigating intestinal function and disease
+Dentistry,Medicine,Jian-Guo Geng,Linda Samuelson,Investigating intestinal function and disease
+Medicine,NatResEnv,Sara Warber,MaryCarol Hunter,A “nature pill” for healthy ageing in urban area
+NatResEnv,OVPR,MaryCarol Hunter,Brenda Gillespie,A “nature pill” for healthy ageing in urban area
+Medicine,OVPR,Sara Warber,Brenda Gillespie,A “nature pill” for healthy ageing in urban area
+Engineer,Medicine,Karl Grosh,Yehoash Raphael,Enhancing hearing restoration by improving the condition
+Medicine,Medicine,Bryan Pfingst,Yehoash Raphael,Enhancing hearing restoration by improving the condition
+Engineer,Medicine,Karl Grosh,Bryan Pfingst,Enhancing hearing restoration by improving the condition
+LSA:NatSci,Medicine,Nils Walter,Georgios Skiniotis,DNA origami scaffolds for single-particle EM visualization
+Medicine,Medicine,Roger Sunahara,Georgios Skiniotis,DNA origami scaffolds for single-particle EM visualization
+LSA:NatSci,Medicine,Nils Walter,Roger Sunahara,DNA origami scaffolds for single-particle EM visualization
+Medicine,Medicine,Robert Wessells,Jun Hee Lee,A pill that mimics exercise? Exploiting Sestrins as
+LSA:NatSci,Medicine,Catherine Collins,Jun Hee Lee,A pill that mimics exercise? Exploiting Sestrins as
+LSA:NatSci,Medicine,Catherine Collins,Robert Wessells,A pill that mimics exercise? Exploiting Sestrins as
+Engineer,Medicine,Anouck Girard,Josephine Kasa-Vubu,Drone technology for classification of bone age X-ray
+Engineer,Medicine,Anouck Girard,Michael DiPietro,Drone technology for classification of bone age X-ray
+Medicine,Medicine,Michael DiPietro,Josephine Kasa-Vubu,Drone technology for classification of bone age X-ray
+ISR,LSA:NatSci,Inbal Nahum-Shani,Susan A. Murphy,Methodology for Developing Real-Time Mobile Phone
+LSA:NatSci,LSA:NatSci,Ambuj Tewari,Susan A. Murphy,Methodology for Developing Real-Time Mobile Phone
+ISR,LSA:NatSci,Inbal Nahum-Shani,Ambuj Tewari,Methodology for Developing Real-Time Mobile Phone
+Dentistry,Medicine,Jan Hu,James Cavalcoli,Proteomics and Genetics of Tooth Defects
+Dentistry,Medicine,Jan Hu,Yang Zhang,Proteomics and Genetics of Tooth Defects
+Medicine,Medicine,Yang Zhang,James Cavalcoli,Proteomics and Genetics of Tooth Defects
+NatResEnv,PubHealth,Joan Nassauer,Amy Jo Schulz,Physical Environments of Post-Industrial Cities
+Law,NatResEnv,Alicia Alvarez,Joan Nassauer,Physical Environments of Post-Industrial Cities
+Law,PubHealth,Alicia Alvarez,Amy Jo Schulz,Physical Environments of Post-Industrial Cities
+Engineer,Engineer,Jwo Pan,Ralph T. Yang,Carbon Capture and Storage
+Engineer,ISR,Ralph T. Yang,Yu Xie,Carbon Capture and Storage
+Engineer,ISR,Jwo Pan,Yu Xie,Carbon Capture and Storage
+Medicine,Medicine,David  Musch,Silvana Papagerakis,Antacid medications as anticancer agents improve patients
+Engineer,Medicine,Nikos Chronis,Silvana Papagerakis,Antacid medications as anticancer agents improve patients
+Engineer,Medicine,Nikos Chronis,David  Musch,Antacid medications as anticancer agents improve patients
+Engineer,Engineer,Michael J. Cafarella,Donald Siegel,Data-Mining for Optimal Metal-Organic Frameworks
+Engineer,LSA:NatSci,Donald Siegel,Antek Wong-Foy,Data-Mining for Optimal Metal-Organic Frameworks
+Engineer,LSA:NatSci,Michael J. Cafarella,Antek Wong-Foy,Data-Mining for Optimal Metal-Organic Frameworks
+Medicine,Medicine,Naheed Khan,K. Thiran Jayasundera,Computer model to help patients find the genes linked
+Engineer,Medicine,A Harvey Bell IV,K. Thiran Jayasundera,Computer model to help patients find the genes linked
+Engineer,Medicine,A Harvey Bell IV,Naheed Khan,Computer model to help patients find the genes linked
+LSA:NatSci,LSA:NatSci,Kyger Lohmann,Clara Castro,Hydraulic Fracturing of Shales: Water Contamination
+Engineer,LSA:NatSci,Avery H. Demond,Clara Castro,Hydraulic Fracturing of Shales: Water Contamination
+Engineer,LSA:NatSci,Avery H. Demond,Kyger Lohmann,Hydraulic Fracturing of Shales: Water Contamination
+Engineer,LSA:NatSci,Anthony Grbic,Hui Deng,Reconfigurable graphene beams for microscopy and micromanipulatio
+Engineer,Engineer,John Hart,Anthony Grbic,Reconfigurable graphene beams for microscopy and micromanipulatio
+Engineer,LSA:NatSci,John Hart,Hui Deng,Reconfigurable graphene beams for microscopy and micromanipulatio
+Engineer,NatResEnv,Xiaoxia Lin,Bradley Cardinale,Algal biofuel and biodiversity
+Engineer,LSA:NatSci,Xiaoxia Lin,Vincent Denef,Algal biofuel and biodiversity
+LSA:NatSci,NatResEnv,Vincent Denef,Bradley Cardinale,Algal biofuel and biodiversity
+Engineer,Engineer,Kim F. Hayes,Brian Ellis,Hydraulic Fracturing of Shales: Water Contamination
+Engineer,NatResEnv,Brian Ellis,Shelie Miller,Hydraulic Fracturing of Shales: Water Contamination
+Engineer,NatResEnv,Kim F. Hayes,Shelie Miller,Hydraulic Fracturing of Shales: Water Contamination
+Engineer,Engineer,Elliot Soloway,Honglak Lee,Machine Learning for Computational Healthcare
+Engineer,Medicine,Honglak Lee,James Wrobel,Machine Learning for Computational Healthcare
+Engineer,Medicine,Elliot Soloway,James Wrobel,Machine Learning for Computational Healthcare
+LSA:NatSci,Medicine,Julie Biteen,Eric Martens,"How bacteria in the human gut recognize, bind to and"
+LSA:NatSci,Medicine,Julie Biteen,Nicole Koropatkin,"How bacteria in the human gut recognize, bind to and"
+Medicine,Medicine,Nicole Koropatkin,Eric Martens,"How bacteria in the human gut recognize, bind to and"
+Medicine,Medicine,Todd Herron,Jose Jalife,Self-assembly of beating heart muscle derived from
+Engineer,Medicine,Jan Stegemann,Jose Jalife,Self-assembly of beating heart muscle derived from
+Engineer,Medicine,Jan Stegemann,Todd Herron,Self-assembly of beating heart muscle derived from
+Engineer,Medicine,Mark Daskin,Robert Merion,Performance Evaluation in Organ Transplantation: Beyond
+Medicine,Medicine,Alan Leichtman,Robert Merion,Performance Evaluation in Organ Transplantation: Beyond
+Engineer,Medicine,Mark Daskin,Alan Leichtman,Performance Evaluation in Organ Transplantation: Beyond
+Medicine,Nursing,Alla Karnovsky,Marcelline Harris,Ontology Development and Applications for Clinical
+Medicine,Medicine,Yongqun He,Alla Karnovsky,Ontology Development and Applications for Clinical
+Medicine,Nursing,Yongqun He,Marcelline Harris,Ontology Development and Applications for Clinical
+Engineer,Medicine,Erdogan Gulari,David Engelke,Sensitive detection of molecular markers for disease
+Medicine,Medicine,Thomas Wilson,David Engelke,Sensitive detection of molecular markers for disease
+Engineer,Medicine,Erdogan Gulari,Thomas Wilson,Sensitive detection of molecular markers for disease
+Engineer,Medicine,Jennifer J. Linderman,Santiago Schnell,Manipulating CXCL12-CXCR4 signaling pathway in breast
+Engineer,Medicine,Jennifer J. Linderman,Gary Luker,Manipulating CXCL12-CXCR4 signaling pathway in breast
+Medicine,Medicine,Gary Luker,Santiago Schnell,Manipulating CXCL12-CXCR4 signaling pathway in breast
+Medicine,Medicine,Aaron Goldstrohm,Peter Todd,RNA structure in translation initiation and regulatio
+LSI,Medicine,Daniel Southworth,Peter Todd,RNA structure in translation initiation and regulatio
+LSI,Medicine,Daniel Southworth,Aaron Goldstrohm,RNA structure in translation initiation and regulatio
+ISR,Medicine,Philippa Clarke,Neil Alexander,Understanding the Role of the Built Environment for
+ArchUrban,ISR,Robert Adams,Philippa Clarke,Understanding the Role of the Built Environment for
+ArchUrban,Medicine,Robert Adams,Neil Alexander,Understanding the Role of the Built Environment for
+Medicine,OVPR,Carey Lumeng,Matthew Reed,Measurement of Body Shape Change in Children
+Medicine,OVPR,Julie Lumeng,Matthew Reed,Measurement of Body Shape Change in Children
+Medicine,Medicine,Julie Lumeng,Carey Lumeng,Measurement of Body Shape Change in Children
+Info,PubHealth,Julia Adler-Milstein,Christy Harris Lemak,Adoption and Use of Information Technology to Improve
+Info,PubHealth,Julia Adler-Milstein,Shoou-Yih Daniel Lee,Adoption and Use of Information Technology to Improve
+PubHealth,PubHealth,Shoou-Yih Daniel Lee,Christy Harris Lemak,Adoption and Use of Information Technology to Improve
+Law,NatResEnv,Sara Gosman,Paul Mohai,"School Siting: Environmental Justice, Health, and"
+Law,PubHealth,Sara Gosman,Sara Adar,"School Siting: Environmental Justice, Health, and"
+NatResEnv,PubHealth,Paul Mohai,Sara Adar,"School Siting: Environmental Justice, Health, and"
+Business,PubHealth,Ravi M. Anupindi,Mark L. Wilson,Optimizing resource allocation across multiple interventions
+PubHealth,PubHealth,David Hutton,Mark L. Wilson,Optimizing resource allocation across multiple interventions
+Business,PubHealth,Ravi M. Anupindi,David Hutton,Optimizing resource allocation across multiple interventions
+Business,LSA:SocSci,Carolyn Yoon,Shinobu Kitayama,Genes and cultural acquisition
+Business,Medicine,Carolyn Yoon,Israel Liberzon,Genes and cultural acquisition
+LSA:SocSci,Medicine,Shinobu Kitayama,Israel Liberzon,Genes and cultural acquisition
+Medicine,Nursing,Todd Koelling,Susan J. Pressler,Improving Memory in Heart Failure
+Nursing,Nursing,Marita G. Titler,Susan J. Pressler,Improving Memory in Heart Failure
+Medicine,Nursing,Todd Koelling,Marita G. Titler,Improving Memory in Heart Failure
+Dentistry,Medicine,Russell S. Taichman,Todd Morgan,Finding Nessy: Unlocking the secrets of the dormant
+Dentistry,LSA:NatSci,Russell S. Taichman,Laura Buttitta,Finding Nessy: Unlocking the secrets of the dormant
+LSA:NatSci,Medicine,Laura Buttitta,Todd Morgan,Finding Nessy: Unlocking the secrets of the dormant
+Education,Engineer,Lisa Lattuca,Cynthia Finelli,Catalyzing Interdisciplinary Collaborations: Studying
+Education,Education,Janet Lawrence,Lisa Lattuca,Catalyzing Interdisciplinary Collaborations: Studying
+Education,Engineer,Janet Lawrence,Cynthia Finelli,Catalyzing Interdisciplinary Collaborations: Studying
+Medicine,Pharmacy,Theodore Standiford,Kathleen Stringer,Using the Immune System to Target Drugs for the Treatment
+Pharmacy,Pharmacy,Vicki Ellingrod,Kathleen Stringer,Using the Immune System to Target Drugs for the Treatment
+Medicine,Pharmacy,Theodore Standiford,Vicki Ellingrod,Using the Immune System to Target Drugs for the Treatment
+LSA:Hum,LSA:Hum,John Cheney-Lippold,Tung-Hui Hu,Digital Environments Cluster Publishing Series
+Info,LSA:Hum,Finn Brunton,Tung-Hui Hu,Digital Environments Cluster Publishing Series
+Info,LSA:Hum,Finn Brunton,John Cheney-Lippold,Digital Environments Cluster Publishing Series
+Info,LSA:SocSci,Paul  Edwards,Christian Sandvig,New Directions in the Study of Infrastructure
+Info,LSA:SocSci,Carl Lagoze,Christian Sandvig,New Directions in the Study of Infrastructure
+Info,Info,Carl Lagoze,Paul  Edwards,New Directions in the Study of Infrastructure
+Kines,OVPR,Rachael D. Seidler,Scott Peltier,The Aging Brain:  Network Changes and Functional Consequence
+Kines,LSA:SocSci,Rachael D. Seidler,Patricia Reuter-Lorenz,The Aging Brain:  Network Changes and Functional Consequence
+LSA:SocSci,OVPR,Patricia Reuter-Lorenz,Scott Peltier,The Aging Brain:  Network Changes and Functional Consequence
+ArtDesign,LSA:NatSci,Jim Cogswell,Gregory Tarlé,In the Dark
+LSA:NatSci,Music,Gregory Tarlé,Stephen Rush,In the Dark
+ArtDesign,Music,Jim Cogswell,Stephen Rush,In the Dark
+Medicine,Medicine,Tim Peterson,Jeff Kullgren,Usability and Impact of Health Care Price Transparency
+Medicine,PubHealth,Jeff Kullgren,Simone Singh,Usability and Impact of Health Care Price Transparency
+Medicine,PubHealth,Tim Peterson,Simone Singh,Usability and Impact of Health Care Price Transparency
+Engineer,NatResEnv,Nancy G. Love,Josh Newell,Innovatively Planning for Technological Innovation:
+ArchUrban,NatResEnv,Richard Norton,Josh Newell,Innovatively Planning for Technological Innovation:
+ArchUrban,Engineer,Richard Norton,Nancy G. Love,Innovatively Planning for Technological Innovation:
+Engineer,Engineer,Karl Krushelnick,Alexander Thomas,Using a laser to accelerate electrons and make a movie
+Engineer,LSA:NatSci,Alexander Thomas,Roy Clarke,Using a laser to accelerate electrons and make a movie
+Engineer,LSA:NatSci,Karl Krushelnick,Roy Clarke,Using a laser to accelerate electrons and make a movie
+PubHealth,PubPolicy,Diana Bowman,Shobita Parthasarathy,Governance of Disruptive Technologies
+PubHealth,PubPolicy,Richard Neitzel,Shobita Parthasarathy,Governance of Disruptive Technologies
+PubHealth,PubHealth,Richard Neitzel,Diana Bowman,Governance of Disruptive Technologies
+ArtDesign,Music,Nick Tobier,Priscilla Lindsay,Building a Bigger Broader Creative Class
+ArtDesign,SocialWork,Nick Tobier,Larry Gant,Building a Bigger Broader Creative Class
+Music,SocialWork,Priscilla Lindsay,Larry Gant,Building a Bigger Broader Creative Class

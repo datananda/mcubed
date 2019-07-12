@@ -1,0 +1,26 @@
+DeptKey	DeptFullName	NumFaculty	MaxFunded	TotalProjects
+Medicine	Medicine	501	180	180
+Engineer	Engineering	389	200	142
+LSA:NatSci	LSA: Natural Sciences	108	100	74
+PubHealth	Public Health	153	140	51
+LSA:SocSci	LSA: Social Sciences	55	100	33
+Dentistry	Dentistry	30	30	23
+Info	Information	34	30	22
+NatResEnv	Natural Resources & Environment	38	25	21
+LSA:Hum	LSA:Humanities	30	100	18
+Pharmacy	Pharmacy	29	20	14
+LSI	Life Sciences Institute	20	20	13
+Business	Business	80	10	10
+ArchUrban	Architecture & Urban Planning	63	20	10
+OVPR	Office of the Vice President for Research	32	20	9
+ISR	Institute for Social Research	93	7	8
+Kines	Kinesiology	13	10	8
+Nursing	Nursing	28	10	7
+Education	Education	12	5	5
+Libraries	Libraries	151	4	4
+PubPolicy	Public Policy	7	6	3
+ArtDesign	Art & Design	37	3	3
+Law	Law	27	4	3
+Music	Music, Theatre & Dance	135	2	2
+SocialWork	Social Work	49	10	2
+Graham Institute	Graham Sustainability Institute	1	1	1
