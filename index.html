@@ -1,57 +1,152 @@
 <!DOCTYPE html>
-<head>
-    <meta charset="utf-8">
-    <title>MCubed Flat?</title>
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>MCubed Flat?</title>
+    <link href="https://fonts.googleapis.com/css?family=Abel&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./assets/css/styles.css">
+    <script src="https://d3js.org/d3.v5.min.js"></script>
     <!-- JavaScript Libraries //-->
-    <script src="d3/d3.v3.min.js"></script>
-    <script src="d3/queue.v1.min.js"></script>
+    <!-- <script src="d3/d3.v3.min.js"></script>
+    <script src="d3/queue.v1.min.js"></script> -->
 
     <!-- CSS Style //-->
-    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-    <link href="style.css" rel="stylesheet" type="text/css">
+    <!-- <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="style.css" rel="stylesheet" type="text/css"> -->
 </head>
+
 <body>
-    <div id="content">
-        <div id="intro">
+    <main>
+        <article>
+            <header>
+                <h1>MCubed Flat on Interdisciplinarity?</h1>
+                <p>By MADELEINE FILLOUX</p>
+            </header>
+            <aside>
+                <h2>MCubed: just the numbers</h2>
+                <ul>
+                    <li>2 years</li>
+                    <li>222 cubes funded</li>
+                    <li>$13,320,000 in seed funding distributed</li>
+                    <li>25 different departments involved</li>
+                    <li>800 students employed</li>
+                </ul>
+            </aside>
+            <section>
+                <p>MCubed, the University of Michigan's real-time seed funding program, has fueled over 200 innovative
+                    campus-wide research projects. In just two years, the program contributed more than $12 million
+                    towards faculty teams pursuing experimental approaches to complex problems. MCubed distributes its
+                    funds by lottery to so-called "cubes," trios of professors from at least two different disciplines.
+                    More than 60 cubes have submitted or published work in peer-reviewed journals. 42 cubes have
+                    achieved other scholarly work. $20 million in additonal grant money has been brought in by 31
+                    projects. And more than 800 students and postdocs have gained valuable experience and funding by
+                    working on MCubed projects.</p>
+                <p>While these impressive successes are irrefutable, it is less clear that MCubed is succeeding in its
+                    goal of funding interdisciplinary research. 80% of MCubed projects involve within-department
+                    collaborations. That is to say, only 20% of projects bring together faculty from three distinct
+                    disciplines. Cubes are also heavily weighted towards similar disciplines, with Engineering faculty
+                    more likely to cube with professors from Medicine than with those from Social Work, Public Policy,
+                    or Law. Finally, certain departments are unlikely to receive adequate representation in MCubed
+                    projects due to the funding distribution system. Departments require matching funds and must decide
+                    independently how many faculty to support in the MCubed program. For several departments, this
+                    results in low possible participation. The Art and Design department, for example, has 37 registered
+                    faculty, but can fund only 3 projects while LSA: Natural Sciences can fund 100 out of 108
+                    professors.</p>
+            </section>
+            <section id="arc-diagram">
+                <h2>MCubed Faculty Collaborations Across Disciplines</h2>
+                <p>Select a department to view department-level details.</p>
+            </section>
+            <section id="dept-details">
+                <h2>Medecine</h2>
+            </section>
+            <section>
+                <p>Many of the most successful and marketable MCubed projects are those involving diverse faculty
+                    converging
+                    to tackle a problem. Over half the cubes highlighted during "The MCubed Difference" presentations at
+                    the
+                    2014 MCubed Symposium involved collaborations between three distinct departments. The fact that the
+                    MCubed program itself chooses to highlight more diverse cubes than the average cube implies a
+                    disconnect
+                    between the program's intentions and its results.</p>
+                <p>MCubed can take several steps to further encourage interdisciplinary research as a key component of
+                    its
+                    program. First, it could require that each cube be represented by three, rather than two, different
+                    departments. This simple step alone would promote over 300 new inter-department faculty connections.
+                    Second, the program could re-evaluate its funding mechanisms to ensure all departments are equitably
+                    represented in cubes. This might involve distributing more funds to departments that can't afford to
+                    support many faculty in pursuit of a cube. With this slight effort, MCubed would increase its
+                    ability to
+                    integrate "information, data, techniques, tools, perspectives, concepts, and/or theories...to solve
+                    problems whose solutions are beyond the scope of a single discipline or area of research practice."
+                </p>
+            </section>
+            <footer>
+                <h2>Sources:</h2>
+                <ol>
+                    <li>Moore, Nicole Casal. "MCubed research-funding experiment renewed for two years." The University
+                        Record, 9 October 2014.</li>
+                    <li>Committee on Facilitating Interdisciplinary Research (2004). Facilitating interdisciplinary
+                        research. National Academies. Washington: National Academy Press, p. 2.</li>
+                    <li>Eleven presentations as part of "The MCubed Difference" discussion at <a
+                            href="http://mcubed.umich.edu/mcubed_2014/presentations.html">the 2014 MCubed Symposium</a>.
+                    </li>
+                </ol>
+            </footer>
+        </article>
+    </main>
+
+
+
+
+
+
+
+
+    <!-- <div id="intro">
             <h1>MCubed Flat on Interdisciplinarity?</h1>
             <h2></h2>
             <h4>By MADELEINE FILLOUX</h4>
             <div>
                 <div class="align_right">
                     <h3>MCubed: just the numbers</h3>
-                    <ul>
-                        <li><i class="fa fa-cube"></i>2 years</li>
-                        <li><i class="fa fa-cube"></i>222 cubes funded</li>
-                        <li><i class="fa fa-cube"></i>$13,320,000 in seed funding distributed</li>
-                        <li><i class="fa fa-cube"></i>25 different departments involved</li>
-                        <li><i class="fa fa-cube"></i>800 students employed</li>
+                    <ul class="fa-ul">
+                        <li><span class="fa-li"><i class="fa fa-cube"></i></span>2 years</li>
+                        <li><span class="fa-li"><i class="fa fa-cube"></i></span>222 cubes funded</li>
+                        <li><span class="fa-li"><i class="fa fa-cube"></i></span>$13,320,000 in seed funding distributed
+                        </li>
+                        <li><span class="fa-li"><i class="fa fa-cube"></i></span>25 different departments involved</li>
+                        <li><span class="fa-li"><i class="fa fa-cube"></i></span>800 students employed</li>
                     </ul>
                 </div>
-                <p>MCubed, the University of Michigan's real-time seed funding program, has fueled over 200 innovative campus-wide research projects. In just two years, the program contributed more than $12 million towards faculty teams pursuing experimental approaches to complex problems. MCubed distributes its funds by lottery to so-called "cubes," trios of professors from at least two different disciplines. More than 60 cubes have submitted or published work in peer-reviewed journals. 42 cubes have achieved other scholarly work. $20 million in additonal grant money has been brought in by 31 projects. And more than 800 students and postdocs have gained valuable experience and funding by working on MCubed projects.</p>
-                <p>While these impressive successes are irrefutable, it is less clear that MCubed is succeeding in its goal of funding interdisciplinary research. 80% of MCubed projects involve within-department collaborations. That is to say, only 20% of projects bring together faculty from three distinct disciplines. Cubes are also heavily weighted towards similar disciplines, with Engineering faculty more likely to cube with professors from Medicine than with those from Social Work, Public Policy, or Law. Finally, certain departments are unlikely to receive adequate representation in MCubed projects due to the funding distribution system. Departments require matching funds and must decide independently how many faculty to support in the MCubed program. For several departments, this results in low possible participation. The Art and Design department, for example, has 37 registered faculty, but can fund only 3 projects while LSA: Natural Sciences can fund 100 out of 108 professors.</p>
+
             </div>
         </div>
         <div id="main_chart">
             <h3 class="chart_title">MCubed Faculty Collaborations Across Disciplines</h3>
             <h5 class="chart_sub_title">Select a department to view department-level details.</h5>
-            <!-- main arc diagram chart svg will go here -->
         </div>
         <div id="details_chart">
-            <!-- dept details chart svg will go here -->
         </div>
         <div id="conclusion">
-            <p>Many of the most successful and marketable MCubed projects are those involving diverse faculty converging to tackle a problem. Over half the cubes highlighted during "The MCubed Difference" presentations at the 2014 MCubed Symposium involved collaborations between three distinct departments. The fact that the MCubed program itself chooses to highlight more diverse cubes than the average cube implies a disconnect between the program's intentions and its results.</p>
-            <p>MCubed can take several steps to further encourage interdisciplinary research as a key component of its program. First, it could require that each cube be represented by three, rather than two, different departments. This simple step alone would promote over 300 new inter-department faculty connections. Second, the program could re-evaluate its funding mechanisms to ensure all departments are equitably represented in cubes. This might involve distributing more funds to departments that can't afford to support many faculty in pursuit of a cube. With this slight effort, MCubed would increase its ability to integrate "information, data, techniques, tools, perspectives, concepts, and/or theories...to solve problems whose solutions are beyond the scope of a single discipline or area of research practice."</p>
+
             <h6>Sources:</h6>
             <ol id="sources">
-                <li>Moore, Nicole Casal. "MCubed research-funding experiment renewed for two years." The University Record, 9 October 2014.</li>
-                <li>Committee on Facilitating Interdisciplinary Research (2004). Facilitating interdisciplinary research. National Academies. Washington: National Academy Press, p. 2.</li>
-                <li>Eleven presentations as part of "The MCubed Difference" discussion at <a href="http://mcubed.umich.edu/mcubed_2014/presentations.html">the 2014 MCubed Symposium</a>.</li>
+                <li>Moore, Nicole Casal. "MCubed research-funding experiment renewed for two years." The University
+                    Record, 9 October 2014.</li>
+                <li>Committee on Facilitating Interdisciplinary Research (2004). Facilitating interdisciplinary
+                    research. National Academies. Washington: National Academy Press, p. 2.</li>
+                <li>Eleven presentations as part of "The MCubed Difference" discussion at <a
+                        href="http://mcubed.umich.edu/mcubed_2014/presentations.html">the 2014 MCubed Symposium</a>.
+                </li>
             </ol>
-        </div>
-    </div>
-    <script type="text/javascript" src="mcubed.js"></script>
-    <script type="text/javascript" src="doughnut.js"></script>
+        </div> -->
+
+    <!-- <script type="text/javascript" src="mcubed.js"></script>
+    <script type="text/javascript" src="doughnut.js"></script> -->
+    <script type="text/javascript" src="./assets/javascript/arc-diagram.js"></script>
 </body>
+
 </html>

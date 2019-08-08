@@ -1,0 +1,36 @@
+.node-text {
+    text-anchor: start;
+    dominant-baseline: central;
+    font-size: 0.625em;
+    font-family: 'Abel', sans-serif;
+}
+
+.node-circle {
+    fill: #acacac;
+}
+
+.link {
+    fill: none;
+    stroke: #c9c9c9;
+    opacity: 0.5;
+}
+
+.selected-node circle {
+    fill: #40658f;
+}
+
+.selected-node text {
+    font-weight: 900;
+}
+
+.selected-link {
+    stroke: #ffcb05;
+    opacity: 1;
+}
+
+@media (min-width: 30em) {
+    .node-text {
+        text-anchor: end;
+        font-size: 0.75em;
+    }
+}

@@ -1,9 +1,12 @@
+html,
 body {
-    font-family: 'Arial', sans-serif;
-    margin: 64px 128px;
+    margin: 0;
 }
 
 #content {
+    font-family: 'Arial', sans-serif;
+    margin: auto;
+    max-width: 90vw;
     width: 1000px;
 }
 
@@ -14,7 +17,6 @@ p {
 
 ol {
     counter-reset: o-counter 0;
-    display: table;
     list-style-type: none;
     font-family: 'Times New Roman', serif;
     font-size: 12px;
@@ -23,15 +25,14 @@ ol {
 
 ol > li {
     counter-increment: o-counter;
-    display: table-row;
-    height: 40px;
+    padding-left: 22px;
+    text-indent: -22px;
 }
 
 ol > li::before {
     content: '[' counter(o-counter) ']   ';
-    display: table-cell; /* aha! */
-    text-align: left;
     width: 20px;
+    margin-right: 5px;
 }
 
 h1 {
@@ -94,27 +95,34 @@ h6 {
 }
 
 .align_right {
-    float: right; 
-    margin-left: 48px;
+    /* float: right;  */
+    /* margin-left: 48px; */
     margin-bottom: 24px;
     margin-top: 6px;
-    width: 325px;
-    height: 175px;
+    /* width: 325px; */
+    /* height: 175px; */
     border: 1px solid black;
-    padding: 30px;
+    padding: 15px;
 }
 
 i {
     margin-right: 10px;
 }
 
-.align_right li {
+li {
     margin-bottom: 10px;
 }
 
+li:last-of-type {
+    margin-bottom: 0;
+}
+
 ul {
-    list-style-type: none;
-    padding-left: 0px;
+    margin-bottom: 0;
+}
+
+.fa-li {
+    top: 0;
 }
 
 .keyTitle {
@@ -136,23 +144,23 @@ ul {
     stroke: #888888;
 }
 
-.chart_title {
+/* .chart_title {
     width: 300px;
     text-align: right;
     position: relative;
     left: 700px;
     top: 135px;
-}
+} */
 
 .chart_sub_title {
-    width: 175px;
+    /* width: 175px;
     text-align: right;
-    position: relative;
+    position: relative; */
     font-style: italic;
     font-weight: normal;
     color: #666666;
-    left: 824px;
-    top: 130px;
+    /* left: 824px;
+    top: 130px; */
 }
 
 .detailTitle {
@@ -160,22 +168,22 @@ ul {
     font-weight: bold;
 }
 
-#main_chart {
+/* #main_chart {
     margin: auto;
     margin-top: -100px;
-}
+} */
 
 #details_chart {
     margin-top: 15px;
     width: 525px;
     display: inline-block;
-    float:left;
+    float: left;
     margin-bottom: 64px;
 }
 
 #conclusion {
-    width: 475px;
-    float:left;
+    /* width: 475px;
+    float:left; */
 }
 
 #details {

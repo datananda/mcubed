@@ -23,18 +23,19 @@ function arcDiagram(departments, links) {
     var svg  = d3.select("#main_chart")
         .append("svg")
         .attr("id", "arc")
-        .attr("width", width)
-        .attr("height", height);
+        .attr("viewBox", `0 0 ${height} ${width}`);
+        // .attr("width", width)
+        // .attr("height", height);
 
     // create plot area within svg image
     var plot = svg.append("g")
         .attr("id", "plot")
-        .attr("transform", "translate(" + 25 + ", " + 250 + ") rotate(-45)");
+        .attr("transform", "translate(" + 95 + ", " + 30 + ") rotate(0)");
 
     // create key area within svg image
     var arcKey = svg.append("g")
         .attr("id","arcKey")
-        .attr("transform", "translate(40, 500)");
+        .attr("transform", "translate(430, 830)");
 
     arcKey.append("rect")
         .attr("class","chartKey")
@@ -154,9 +155,9 @@ function drawNodes(nodes, links) {
         .append("text")
         .attr("class", function(d) { return "label " + d.DeptKey; })
         .attr("id", function(d, i) { return d.DeptKey; })
-        .attr("transform", function(d, i) {
-            return "rotate(" + 45 + ", " + d.x + ", " + d.y + ")";
-        })
+        // .attr("transform", function(d, i) {
+        //     return "rotate(" + 45 + ", " + d.x + ", " + d.y + ")";
+        // })
         .attr("x", function(d, i) { return d.x - 10; })
         .attr("y", function(d, i) { return d.y + radius / 1.5 + 1; })
         .attr("text-anchor","end")
